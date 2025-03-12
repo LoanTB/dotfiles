@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+
+!.swaylock/
+!.swaylock/**/*
+
+!.config/
+!.config/fish/
+!.config/fish/**/*
+!.config/foot/
+!.config/foot/**/*
+!.config/sway/
+!.config/sway/**/*
