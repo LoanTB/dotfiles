@@ -261,5 +261,5 @@ include /etc/sway/config.d/*
 
 input * {
     xkb_layout "fr"
-    natural_scroll enabled
+    natural_scroll disabled
 }
